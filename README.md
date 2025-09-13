@@ -7,10 +7,10 @@ Ferramenta em **Python** para geração automática de mensagens panoramas e rel
 
 ## 🛠 Tecnologias
 - Python 3.x
-- Bibliotecas padrão (`datetime`, etc.)
+- Bibliotecas padrão (datetime ,selenium, os)
 
 ## 📂 Estrutura
-- `main.py` → Código principal com funções de geração de mensagens.
+- `email.py` → Código principal com funções de geração de mensagens.
 - `funcoes/` → Módulos separados para organização do código.
 
 ## ▶️ Como usar
