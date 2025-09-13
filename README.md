@@ -16,4 +16,4 @@ Ferramenta em **Python** para geração automática de mensagens panoramas e rel
 ## ▶️ Como usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeonardoOGSilva/Enviar_email
